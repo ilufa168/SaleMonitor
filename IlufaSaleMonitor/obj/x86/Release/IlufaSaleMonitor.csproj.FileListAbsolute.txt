@@ -1,0 +1,48 @@
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.exe.config
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.csprojResolveAssemblyReference.cache
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.IlufaSameMonitor.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmNewBuyXGetYFree.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmNewSale.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.Properties.Resources.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.csproj.GenerateResource.Cache
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.exe.licenses
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.exe.manifest
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.application
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.exe
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.pdb
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSharedObjects.dll
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSharedObjects.pdb
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.exe.manifest
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.application
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.exe
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.pdb
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmSaleMonitor.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmAddEditSale.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmPickNewSale.resources
+D:\Projects(Visual Studio and Unity)\VS 2013 Projects\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmAddEditFixedAmount.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.exe.config
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.exe
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.pdb
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.exe.manifest
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.application
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.exe
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSaleMonitor.pdb
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\Devart.Data.dll
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\Devart.Data.Oracle.dll
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSharedObjects.dll
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\Devart.Data.xml
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\Devart.Data.Oracle.xml
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\bin\Release\IlufaSharedObjects.pdb
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.csprojResolveAssemblyReference.cache
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.IlufaSameMonitor.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmAddEditFixedAmount.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmAddEditSale.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmNewBuyXGetYFree.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmNewSale.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmPickNewSale.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.frmSaleMonitor.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.Properties.Resources.resources
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.csproj.GenerateResource.Cache
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.exe.licenses
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.exe.manifest
+D:\Projects(Visual Studio and Unity)\Sale Monitor\Sale Monitor\IlufaSaleMonitor\IlufaSaleMonitor\obj\x86\Release\IlufaSaleMonitor.application
